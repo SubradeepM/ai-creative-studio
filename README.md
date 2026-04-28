@@ -21,10 +21,13 @@ Transform your photos into stunning artwork using artificial intelligence! This 
 - CSS3 Animations
 
 ### 🚀 Live Demo
-**[Click Here to Try the App](https://YOUR_USERNAME.github.io/ai-creative-studio)**
+**[Click Here to Try the App](https://SubradeepM.github.io/ai-creative-studio)**
 
 ### 📸 How to Use
 1. Upload any image (click or drag & drop)
 2. Choose an artistic style
 3. Click "Apply Style Transfer"
 4. Download your AI-generated artwork!
+
+## Author
+Subradeep — github.com/SubradeepM
