@@ -2,7 +2,6 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://YOUR_USERNAME.github.io/ai-creative-studio)
 [![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-AI-orange)](https://www.tensorflow.org/js)
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## 🤖 AI-Powered Image Style Transfer
 
@@ -29,9 +28,3 @@ Transform your photos into stunning artwork using artificial intelligence! This 
 2. Choose an artistic style
 3. Click "Apply Style Transfer"
 4. Download your AI-generated artwork!
-
-### 💻 Run Locally
-```bash
-git clone https://github.com/YOUR_USERNAME/ai-creative-studio.git
-cd ai-creative-studio
-open index.html
